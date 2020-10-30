@@ -1,0 +1,48 @@
+@import url(<linkhref="https://fonts.googleapis.com/css2?family=Montserrat&display=swap"rel="stylesheet">);
+
+.container {
+  padding: 60px;
+  line-height: 0.8em;
+  border: solid;
+  width: 600px;
+  margin: 0 auto 0 auto;
+  background: white;
+  text-align: center;
+  max-width: 600px;
+}
+
+p {
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+}
+.header {
+  text-align: center;
+  margin-top: 0px;
+ 
+}
+.form-group {
+  font-size: 15px;
+  font-family: Montserrat, sans-serif;
+}
+
+#survey-form {
+  text-align: center;
+}
+
+body {
+  background-image: url(https://i.ibb.co/478JL2f/Pngtree-hand-painted-background-pizza-seamless-vector-134052.png);
+}
+
+textarea {
+  resize: ;
+  max-width: 600px;
+}
+
+label {
+  align-items: left;
+  display: fixed;
+}
+
+#borders {
+  border: 1px solid ;
+  padding: 10px;
